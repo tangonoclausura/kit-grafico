@@ -803,6 +803,28 @@
          id="rect17597"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.87598681;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath21965">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.93943501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect21967"
+         width="612.06366"
+         height="288.37784"
+         x="-1797.0375"
+         y="-330.96664" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath22039">
+      <rect
+         y="7.7000427"
+         x="-1797.0375"
+         height="288.37784"
+         width="612.06366"
+         id="rect22041"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.93943501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -811,11 +833,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38679564"
-     inkscape:cx="4943.9868"
-     inkscape:cy="1592.6395"
+     inkscape:zoom="0.19339782"
+     inkscape:cx="-3812.0868"
+     inkscape:cy="362.96731"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="3200"
      inkscape:window-height="1690"
@@ -828,49 +850,9 @@
        type="xygrid"
        id="grid9465" />
     <sodipodi:guide
-       position="-1694.0044,894.5573"
-       orientation="1,0"
-       id="guide14089"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-2140.8887,794.4651"
-       orientation="1,0"
-       id="guide18385"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-1876.3037,794.4651"
-       orientation="1,0"
-       id="guide18387"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-2009.9355,598.02797"
-       orientation="1,0"
-       id="guide18413"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-1357.7677,775.82975"
-       orientation="1,0"
-       id="guide18613"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-1289.2535,916.99677"
-       orientation="1,0"
-       id="guide18663"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-1303.3254,927.61161"
-       orientation="1,0"
-       id="guide18665"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="1214.1949,-448.18037"
        orientation="1,0"
        id="guide21469"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1654.8765,-492.76752"
-       orientation="0,1"
-       id="guide21471"
        inkscape:locked="false" />
     <sodipodi:guide
        position="1532.5292,74.34375"
@@ -910,11 +892,14 @@
        style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:3.49930429;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="-698.31171"
-       x="-2190.8279"
-       height="1163.1569"
-       width="1026.8486"
+       x="-2210.3557"
+       height="1610.8766"
+       width="1708.0626"
        id="rect8867"
-       style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:4.34845543;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:6.60002613;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/xaiki/posters.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.93943501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8871"
@@ -922,13 +907,6 @@
        height="288.37784"
        x="-1797.0375"
        y="-659.05029" />
-    <rect
-       style="opacity:0.51399997;fill:#75507b;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect8880"
-       width="602.32172"
-       height="593.35614"
-       x="-1785.7737"
-       y="-342.81393" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.87598681;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8882"
@@ -943,12 +921,47 @@
        inkscape:export-ydpi="100"
        inkscape:export-xdpi="100"
        inkscape:export-filename="/home/xaiki/baner-etnsc.png"
-       y="-665.62115"
-       x="-2576.6028"
+       y="143.94984"
+       x="-2181.9128"
        height="725.69067"
        width="342.23456"
        id="rect18984"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.87598681;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-344.72498"
+       x="-1797.0375"
+       height="288.37784"
+       width="612.06366"
+       id="rect21661"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.93943501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.93943501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21969"
+       width="612.06366"
+       height="288.37784"
+       x="-1797.0375"
+       y="-32.516678" />
+    <rect
+       y="591.703"
+       x="-1149.3524"
+       height="288.37784"
+       width="612.06366"
+       id="rect22047"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.93943501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="589.7832"
+       x="-1797.0374"
+       height="288.37784"
+       width="612.06366"
+       id="rect22124"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.93943501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="278.23785"
+       x="-1797.0375"
+       height="288.37784"
+       width="612.06366"
+       id="rect22169"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.93943501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3399,7 +3412,7 @@
        inkscape:export-filename="/home/xaiki/banner-etnsc.png"
        clip-path="url(#clipPath17595)"
        id="g19662"
-       transform="translate(-396.87494,4.0957031e-5)">
+       transform="translate(-2.1849797,809.57127)">
       <g
          id="g19042"
          transform="matrix(0.48791046,0,0,0.48791046,-2061.7662,-221.87168)">
@@ -3873,11 +3886,130 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
              id="flowPara19656">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>      </g>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot21791"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.12796021px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.39652926,0,0,0.39652926,1651.4499,73.615252)"><flowRegion
+         id="flowRegion21785"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.12796021px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff"><rect
+           id="rect21783"
+           width="1000.0063"
+           height="729.0672"
+           x="-8091.5479"
+           y="-842.34222"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.12796021px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara21787">NUSTRA CULTURA,</flowPara><flowPara
+         id="flowPara21789">NUESTRA IDENTIDAD</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.43623876,0,0,0.43623876,1907.2363,273.54856)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot21823"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"
+         id="flowRegion21819"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="-842.34222"
+           x="-8091.5479"
+           height="729.0672"
+           width="1000.0063"
+           id="rect21817" /></flowRegion><flowPara
+         id="flowPara21821">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot21987"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.43623876,0,0,0.43623876,1907.2363,585.75709)"><flowRegion
+         id="flowRegion21983"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"><rect
+           id="rect21981"
+           width="1000.0063"
+           height="729.0672"
+           x="-8091.5479"
+           y="-842.34222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara21985">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.43623876,0,0,0.43623876,2554.9268,1209.9772)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot22055"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"
+         id="flowRegion22051"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="-842.34222"
+           x="-8091.5479"
+           height="729.0672"
+           width="1000.0063"
+           id="rect22049" /></flowRegion><flowPara
+         id="flowPara22053">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.43623876,0,0,0.43623876,1907.2362,1208.0587)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot22132"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"
+         id="flowRegion22128"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="-842.34222"
+           x="-8091.5479"
+           height="729.0672"
+           width="1000.0063"
+           id="rect22126" /></flowRegion><flowPara
+         id="flowPara22130">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.43623876,0,0,0.43623876,1907.2363,896.51186)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot22177"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"
+         id="flowRegion22173"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="-842.34222"
+           x="-8091.5479"
+           height="729.0672"
+           width="1000.0063"
+           id="rect22171" /></flowRegion><flowPara
+         id="flowPara22175">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Letrage 1">
+    <g
+       id="g21963"
+       clip-path="url(#clipPath21965)"
+       transform="translate(0,-13.758334)">
+      <image
+         sodipodi:absref="/home/xaiki/src/ETNSC/kit-grafico/assets/20248412_10214213025226502_5124272972812370723_o.jpg"
+         xlink:href="assets/20248412_10214213025226502_5124272972812370723_o.jpg"
+         y="-336.43512"
+         x="-1796.3508"
+         id="image21899"
+         preserveAspectRatio="none"
+         height="407.68866"
+         width="611.53302" />
+      <g
+         transform="matrix(0.20628783,0,0,0.20628783,-1720.2249,-331.65451)"
+         id="g21956">
+        <path
+           style="display:inline;opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 46.007192,93.189481 30.0491,-21.695833 30.049108,22.666831 30.04911,-22.666831 c 10.01637,7.231944 20.03273,14.463889 30.0491,21.695833 V 131.59187 L 106.1054,176.87341 46.007192,131.59187 Z"
+           id="path21950"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           clip-path="none"
+           transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path21952"
+           transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+           d="m 879.8418,-2372.6621 -478.81446,361.1816 v 1317.97855 z m -478.81446,1679.16015 -957.625,-1333.45115 v 611.9179 z"
+           clip-path="none"
+           style="display:inline;opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path21954"
+           transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+           d="M -77.785156,-2372.6621 401.02734,-693.50195 V -2011.4805 Z M 401.02734,-693.50195 1358.6543,-1415.0352 v -611.9179 z"
+           clip-path="none"
+           style="display:inline;opacity:1;fill:#5e5e5e;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
     <g
        id="g10177"
        transform="matrix(0.24279657,0,0,0.24279657,255.54464,32.645018)">
@@ -8153,7 +8285,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.20628783,0,0,0.20628783,-2031.8237,66.636173)"
+       transform="matrix(0.18451368,0,0,0.18451368,-2029.5134,56.836589)"
        id="g18411">
       <path
          style="display:inline;opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -8180,7 +8312,7 @@
     </g>
     <g
        id="g19670"
-       transform="matrix(0.20628783,0,0,0.20628783,-2428.6987,66.636173)">
+       transform="matrix(0.16491693,0,0,0.16491693,-2029.619,853.13825)">
       <path
          transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)"
          clip-path="none"
@@ -8334,5 +8466,488 @@
          clip-path="none"
          style="display:inline;opacity:1;fill:#d92ed1;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       style="opacity:0.419;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.59304619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21825"
+       width="612.06366"
+       height="118.92306"
+       x="-1797.0375"
+       y="-175.27011"
+       ry="0" />
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       transform="matrix(0.2155219,0,0,0.2155219,-2051.3321,273.14963)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot21833"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+         id="flowRegion21829"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+           y="-1846.0518"
+           x="1982.8572"
+           height="254.28575"
+           width="1968.5715"
+           id="rect21827" /></flowRegion><flowPara
+         id="flowPara21831">#ElTangoNoSeClausura</flowPara></flowRoot>    <text
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.85903931px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.47147599px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1559.4564"
+       y="-127.37778"
+       id="text21837"><tspan
+         sodipodi:role="line"
+         id="tspan21835"
+         x="-1559.4564"
+         y="-127.37778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.47147599px">NUESTRA CULTURA, NUESTRA IDENTIDAD</tspan></text>
+    <g
+       id="g21845"
+       transform="matrix(0.38519019,0,0,0.38519019,-1721.1143,-3.8460399)">
+      <path
+         transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)"
+         clip-path="none"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path21839"
+         d="m 46.007192,93.189481 30.0491,-21.695833 30.049108,22.666831 30.04911,-22.666831 c 10.01637,7.231944 20.03273,14.463889 30.0491,21.695833 V 131.59187 L 106.1054,176.87341 46.007192,131.59187 Z"
+         style="display:inline;opacity:1;fill:#b521ae;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;opacity:1;fill:#9f1c97;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="none"
+         d="m 879.8418,-2372.6621 -478.81446,361.1816 v 1317.97855 z m -478.81446,1679.16015 -957.625,-1333.45115 v 611.9179 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         id="path21841"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;opacity:1;fill:#d92ed1;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="none"
+         d="M -77.785156,-2372.6621 401.02734,-693.50195 V -2011.4805 Z M 401.02734,-693.50195 1358.6543,-1415.0352 v -611.9179 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         id="path21843"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g22037"
+       clip-path="url(#clipPath22039)"
+       transform="translate(0,-40.216669)">
+      <image
+         sodipodi:absref="/home/xaiki/src/ETNSC/kit-grafico/assets/1272631_10206771652641661_741903685422293108_o.jpg"
+         xlink:href="assets/1272631_10206771652641661_741903685422293108_o.jpg"
+         y="-72.902946"
+         x="-1797.0375"
+         id="image21855"
+         preserveAspectRatio="none"
+         height="407.23239"
+         width="610.55042" />
+    </g>
+    <rect
+       ry="0"
+       y="136.93822"
+       x="-1797.0375"
+       height="118.92306"
+       width="612.06366"
+       id="rect21989"
+       style="opacity:0.419;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.59304619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot21997"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.2155219,0,0,0.2155219,-2051.3321,585.35816)"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><flowRegion
+         id="flowRegion21993"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"><rect
+           id="rect21991"
+           width="1968.5715"
+           height="254.28575"
+           x="1982.8572"
+           y="-1846.0518"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara21995">#ElTangoNoSeClausura</flowPara></flowRoot>    <text
+       id="text22001"
+       y="186.29636"
+       x="-1559.7914"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.04669952px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57616752px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.57616752px"
+         y="186.29636"
+         x="-1559.7914"
+         id="tspan21999"
+         sodipodi:role="line">EL TANGO VIVE EN LAS MILONGAS</tspan></text>
+    <g
+       transform="matrix(0.38519019,0,0,0.38519019,-1721.1143,308.36242)"
+       id="g22009">
+      <path
+         style="display:inline;opacity:1;fill:#b521ae;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 46.007192,93.189481 30.0491,-21.695833 30.049108,22.666831 30.04911,-22.666831 c 10.01637,7.231944 20.03273,14.463889 30.0491,21.695833 V 131.59187 L 106.1054,176.87341 46.007192,131.59187 Z"
+         id="path22003"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         clip-path="none"
+         transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path22005"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         d="m 879.8418,-2372.6621 -478.81446,361.1816 v 1317.97855 z m -478.81446,1679.16015 -957.625,-1333.45115 v 611.9179 z"
+         clip-path="none"
+         style="display:inline;opacity:1;fill:#9f1c97;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path22007"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         d="M -77.785156,-2372.6621 401.02734,-693.50195 V -2011.4805 Z M 401.02734,-693.50195 1358.6543,-1415.0352 v -611.9179 z"
+         clip-path="none"
+         style="display:inline;opacity:1;fill:#d92ed1;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       style="opacity:0.419;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.59304619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22061"
+       width="612.06366"
+       height="118.92306"
+       x="-1149.3524"
+       y="761.1579"
+       ry="0" />
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       transform="matrix(0.2155219,0,0,0.2155219,-1403.6416,1209.5783)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot22069"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+         id="flowRegion22065"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+           y="-1846.0518"
+           x="1982.8572"
+           height="254.28575"
+           width="1968.5715"
+           id="rect22063" /></flowRegion><flowPara
+         id="flowPara22067">#ElTangoNoSeClausura</flowPara></flowRoot>    <text
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.85903931px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.47147599px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-911.77124"
+       y="809.0506"
+       id="text22073"><tspan
+         sodipodi:role="line"
+         id="tspan22071"
+         x="-911.77124"
+         y="809.0506"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.47147599px">NUESTRA CULTURA, NUESTRA IDENTIDAD</tspan></text>
+    <g
+       id="g22081"
+       transform="matrix(0.38519019,0,0,0.38519019,-1073.4238,932.58227)">
+      <path
+         transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)"
+         clip-path="none"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path22075"
+         d="m 46.007192,93.189481 30.0491,-21.695833 30.049108,22.666831 30.04911,-22.666831 c 10.01637,7.231944 20.03273,14.463889 30.0491,21.695833 V 131.59187 L 106.1054,176.87341 46.007192,131.59187 Z"
+         style="display:inline;opacity:1;fill:#b521ae;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;opacity:1;fill:#9f1c97;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="none"
+         d="m 879.8418,-2372.6621 -478.81446,361.1816 v 1317.97855 z m -478.81446,1679.16015 -957.625,-1333.45115 v 611.9179 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         id="path22077"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;opacity:1;fill:#d92ed1;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="none"
+         d="M -77.785156,-2372.6621 401.02734,-693.50195 V -2011.4805 Z M 401.02734,-693.50195 1358.6543,-1415.0352 v -611.9179 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         id="path22079"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       clip-path="url(#clipPath22039)"
+       id="g22136"
+       transform="translate(-2.4366667e-5,582.08367)">
+      <g
+         id="g22163">
+        <image
+           sodipodi:absref="/home/xaiki/src/ETNSC/kit-grafico/assets/12362946_10206772682547408_1136016278093682806_o.jpg"
+           xlink:href="assets/12362946_10206772682547408_1136016278093682806_o.jpg"
+           y="-94.086441"
+           x="-1795.1071"
+           id="image21877"
+           preserveAspectRatio="none"
+           height="544.66705"
+           width="816.60181" />
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       style="opacity:0.419;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.59304619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22138"
+       width="612.06366"
+       height="118.92306"
+       x="-1797.0374"
+       y="759.23865"
+       ry="0" />
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       transform="matrix(0.2155219,0,0,0.2155219,-2051.3322,1207.6598)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot22146"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+         id="flowRegion22142"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+           y="-1846.0518"
+           x="1982.8572"
+           height="254.28575"
+           width="1968.5715"
+           id="rect22140" /></flowRegion><flowPara
+         id="flowPara22144">#ElTangoNoSeClausura</flowPara></flowRoot>    <text
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.85903931px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.47147599px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1559.457"
+       y="807.13129"
+       id="text22150"><tspan
+         sodipodi:role="line"
+         id="tspan22148"
+         x="-1559.457"
+         y="807.13129"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.47147599px">NUESTRA CULTURA, NUESTRA IDENTIDAD</tspan></text>
+    <g
+       id="g22158"
+       transform="matrix(0.38519019,0,0,0.38519019,-1721.1144,930.66289)">
+      <path
+         transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)"
+         clip-path="none"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path22152"
+         d="m 46.007192,93.189481 30.0491,-21.695833 30.049108,22.666831 30.04911,-22.666831 c 10.01637,7.231944 20.03273,14.463889 30.0491,21.695833 V 131.59187 L 106.1054,176.87341 46.007192,131.59187 Z"
+         style="display:inline;opacity:1;fill:#b521ae;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;opacity:1;fill:#9f1c97;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="none"
+         d="m 879.8418,-2372.6621 -478.81446,361.1816 v 1317.97855 z m -478.81446,1679.16015 -957.625,-1333.45115 v 611.9179 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         id="path22154"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;opacity:1;fill:#d92ed1;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="none"
+         d="M -77.785156,-2372.6621 401.02734,-693.50195 V -2011.4805 Z M 401.02734,-693.50195 1358.6543,-1415.0352 v -611.9179 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         id="path22156"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       clip-path="url(#clipPath22039)"
+       id="g22181"
+       transform="translate(0,270.53801)">
+      <g
+         id="g22208">
+        <image
+           sodipodi:absref="/home/xaiki/src/ETNSC/kit-grafico/assets/12357195_10206772669387079_3672124086636380085_o.jpg"
+           xlink:href="assets/12357195_10206772669387079_3672124086636380085_o.jpg"
+           y="-111.38874"
+           x="-1795.8749"
+           id="image21866"
+           preserveAspectRatio="none"
+           height="407.46625"
+           width="610.901" />
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       style="opacity:0.419;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.59304619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22183"
+       width="612.06366"
+       height="118.92306"
+       x="-1797.0375"
+       y="447.6926"
+       ry="0" />
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       transform="matrix(0.2155219,0,0,0.2155219,-2051.3321,896.11293)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot22191"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+         id="flowRegion22187"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+           y="-1846.0518"
+           x="1982.8572"
+           height="254.28575"
+           width="1968.5715"
+           id="rect22185" /></flowRegion><flowPara
+         id="flowPara22189">#ElTangoNoSeClausura</flowPara></flowRoot>    <text
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.04669952px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57616752px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1559.7914"
+       y="497.0506"
+       id="text22195"><tspan
+         sodipodi:role="line"
+         id="tspan22193"
+         x="-1559.7914"
+         y="497.0506"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.57616752px">EL TANGO VIVE EN LAS MILONGAS</tspan></text>
+    <g
+       id="g22203"
+       transform="matrix(0.38519019,0,0,0.38519019,-1721.1143,619.11719)">
+      <path
+         transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)"
+         clip-path="none"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path22197"
+         d="m 46.007192,93.189481 30.0491,-21.695833 30.049108,22.666831 30.04911,-22.666831 c 10.01637,7.231944 20.03273,14.463889 30.0491,21.695833 V 131.59187 L 106.1054,176.87341 46.007192,131.59187 Z"
+         style="display:inline;opacity:1;fill:#b521ae;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;opacity:1;fill:#9f1c97;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="none"
+         d="m 879.8418,-2372.6621 -478.81446,361.1816 v 1317.97855 z m -478.81446,1679.16015 -957.625,-1333.45115 v 611.9179 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         id="path22199"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;opacity:1;fill:#d92ed1;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="none"
+         d="M -77.785156,-2372.6621 401.02734,-693.50195 V -2011.4805 Z M 401.02734,-693.50195 1358.6543,-1415.0352 v -611.9179 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         id="path22201"
+         inkscape:connector-curvature="0" />
+    </g>
+    <image
+       y="-32.516689"
+       x="-1149.5234"
+       id="image22214"
+       preserveAspectRatio="none"
+       height="602.96954"
+       width="602.96954"
+       xlink:href="file:///home/xaiki/Downloads/dolo.jpg"
+       sodipodi:absref="/home/xaiki/Downloads/dolo.jpg" />
+    <rect
+       ry="0"
+       y="453.40558"
+       x="-1149.5234"
+       height="117.04717"
+       width="602.40906"
+       id="rect22216"
+       style="opacity:0.419;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.489048;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot22224"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.21212229,0,0,0.21212229,-1399.8012,894.75194)"><flowRegion
+         id="flowRegion22220"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"><rect
+           id="rect22218"
+           width="1968.5715"
+           height="254.28575"
+           x="1982.8572"
+           y="-1846.0518"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara22222">#ElTangoNoSeClausura</flowPara></flowRoot>    <text
+       id="text22228"
+       y="500.49841"
+       x="-915.6781"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.41524506px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46038109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.46038109px"
+         y="500.49841"
+         x="-915.6781"
+         id="tspan22226"
+         sodipodi:role="line">NUESTRA CULTURA, NUESTRA IDENTIDAD</tspan></text>
+    <g
+       transform="matrix(0.37911424,0,0,0.37911424,-1074.7923,622.12614)"
+       id="g22236">
+      <path
+         style="display:inline;opacity:1;fill:#b521ae;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 46.007192,93.189481 30.0491,-21.695833 30.049108,22.666831 30.04911,-22.666831 c 10.01637,7.231944 20.03273,14.463889 30.0491,21.695833 V 131.59187 L 106.1054,176.87341 46.007192,131.59187 Z"
+         id="path22230"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         clip-path="none"
+         transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path22232"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         d="m 879.8418,-2372.6621 -478.81446,361.1816 v 1317.97855 z m -478.81446,1679.16015 -957.625,-1333.45115 v 611.9179 z"
+         clip-path="none"
+         style="display:inline;opacity:1;fill:#9f1c97;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path22234"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
+         d="M -77.785156,-2372.6621 401.02734,-693.50195 V -2011.4805 Z M 401.02734,-693.50195 1358.6543,-1415.0352 v -611.9179 z"
+         clip-path="none"
+         style="display:inline;opacity:1;fill:#d92ed1;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <image
+       width="601.05988"
+       height="601.05988"
+       preserveAspectRatio="none"
+       id="image22242"
+       x="-1151.4581"
+       y="-657.40692"
+       xlink:href="file:///home/xaiki/Downloads/dolo.jpg"
+       sodipodi:absref="/home/xaiki/Downloads/dolo.jpg" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.56108332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22244"
+       width="550.44159"
+       height="550.44153"
+       x="-1130.967"
+       y="-632.62402"
+       ry="29.506115" />
+    <path
+       clip-path="none"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path22246"
+       d="m -711.1845,-131.41541 c 1.91713,-11.87408 3.83359,-23.74794 5.75058,-35.62212 11.02403,-2.76688 22.04807,-5.53367 33.07198,-8.30043 2.76681,-11.02422 5.53361,-22.04801 8.30069,-33.07224 11.87399,-1.91667 23.74797,-3.83347 35.62183,-5.75045 l 26.4371,26.4368 -10.20046,72.54519 -72.545,10.20003 z"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15.35965252;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.19887839,0,0,0.19887839,-1507.3862,223.96803)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot22254"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+         id="flowRegion22250"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
+           y="-1846.0518"
+           x="1982.8572"
+           height="254.28575"
+           width="1968.5715"
+           id="rect22248" /></flowRegion><flowPara
+         id="flowPara22252">#ElTangoNoSeClausura</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87969398px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.47199228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1085.0486"
+       y="-144.94406"
+       id="text22264"><tspan
+         sodipodi:role="line"
+         id="tspan22262"
+         x="-1085.0486"
+         y="-144.94406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.47199228px">NUESTRA CULTURA, NUESTRA IDENTIDAD</tspan></text>
   </g>
 </svg>
