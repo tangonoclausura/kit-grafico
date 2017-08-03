@@ -844,11 +844,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19339782"
-     inkscape:cx="-734.01329"
-     inkscape:cy="3349.8759"
+     inkscape:zoom="0.27350582"
+     inkscape:cx="-5330.4014"
+     inkscape:cy="-417.24785"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="3200"
      inkscape:window-height="1690"
@@ -869,6 +869,11 @@
        position="1532.5292,74.34375"
        orientation="1,0"
        id="guide21491"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-1184.9738,961.34201"
+       orientation="0,1"
+       id="guide25147"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -974,19 +979,19 @@
        id="rect22450"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.93943501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="display:inline;opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:3.464077;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect23324"
-       width="454.66733"
-       height="454.66733"
-       x="-2858.7815"
-       y="-640.91785" />
+       width="595.27661"
+       height="595.27661"
+       x="-1145.3591"
+       y="-664.86707" />
     <rect
-       y="-127.62606"
-       x="-2858.7815"
-       height="454.66733"
-       width="454.66733"
+       y="-23.32023"
+       x="-1145.3591"
+       height="595.27661"
+       width="595.27661"
        id="rect23655"
-       style="display:inline;opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:3.464077;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4289,7 +4294,7 @@
        inkscape:export-filename="/home/xaiki/banner-etnsc.png"
        clip-path="url(#clipPath23651)"
        id="g23312"
-       transform="translate(-624.41656,4.0957031e-5)">
+       transform="matrix(1.3092575,0,0,1.3092575,1780,174.25925)">
       <g
          transform="matrix(1.0253068,0,0,1.0253068,50.804254,-2.7519612)"
          id="g23174" />
@@ -4666,7 +4671,7 @@
              id="flowPara23306">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>      </g>
     </g>
     <g
-       transform="translate(-624.41656,513.29197)"
+       transform="matrix(1.3092575,0,0,1.3092575,1780,815.80672)"
        id="g23803"
        clip-path="url(#clipPath23651)"
        inkscape:export-filename="/home/xaiki/banner-etnsc.png"
@@ -9670,121 +9675,6 @@
          id="path22156"
          inkscape:connector-curvature="0" />
     </g>
-    <image
-       y="-32.516689"
-       x="-1149.5234"
-       id="image22214"
-       preserveAspectRatio="none"
-       height="602.96954"
-       width="602.96954"
-       xlink:href="file:///home/xaiki/Downloads/dolo.jpg"
-       sodipodi:absref="/home/xaiki/Downloads/dolo.jpg" />
-    <rect
-       ry="0"
-       y="453.40558"
-       x="-1149.5234"
-       height="117.04717"
-       width="602.40906"
-       id="rect22216"
-       style="opacity:0.419;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.489048;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot22224"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.21212229,0,0,0.21212229,-1399.8012,894.75194)"><flowRegion
-         id="flowRegion22220"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"><rect
-           id="rect22218"
-           width="1968.5715"
-           height="254.28575"
-           x="1982.8572"
-           y="-1846.0518"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara22222">#ElTangoNoSeClausura</flowPara></flowRoot>    <text
-       id="text22228"
-       y="500.49841"
-       x="-915.6781"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.41524506px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46038109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.46038109px"
-         y="500.49841"
-         x="-915.6781"
-         id="tspan22226"
-         sodipodi:role="line">NUESTRA CULTURA, NUESTRA IDENTIDAD</tspan></text>
-    <g
-       transform="matrix(0.37911424,0,0,0.37911424,-1074.7923,622.12614)"
-       id="g22236">
-      <path
-         style="display:inline;opacity:1;fill:#b521ae;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 46.007192,93.189481 30.0491,-21.695833 30.049108,22.666831 30.04911,-22.666831 c 10.01637,7.231944 20.03273,14.463889 30.0491,21.695833 V 131.59187 L 106.1054,176.87341 46.007192,131.59187 Z"
-         id="path22230"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccc"
-         clip-path="none"
-         transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path22232"
-         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
-         d="m 879.8418,-2372.6621 -478.81446,361.1816 v 1317.97855 z m -478.81446,1679.16015 -957.625,-1333.45115 v 611.9179 z"
-         clip-path="none"
-         style="display:inline;opacity:1;fill:#9f1c97;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path22234"
-         transform="matrix(0.26458333,0,0,0.26458333,-2.3075814e-7,-9.420819e-6)"
-         d="M -77.785156,-2372.6621 401.02734,-693.50195 V -2011.4805 Z M 401.02734,-693.50195 1358.6543,-1415.0352 v -611.9179 z"
-         clip-path="none"
-         style="display:inline;opacity:1;fill:#d92ed1;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <image
-       width="601.05988"
-       height="601.05988"
-       preserveAspectRatio="none"
-       id="image22242"
-       x="-1151.4581"
-       y="-657.40692"
-       xlink:href="file:///home/xaiki/Downloads/dolo.jpg"
-       sodipodi:absref="/home/xaiki/Downloads/dolo.jpg" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.56108332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect22244"
-       width="550.44159"
-       height="550.44153"
-       x="-1130.967"
-       y="-632.62402"
-       ry="29.506115" />
-    <path
-       clip-path="none"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:connector-curvature="0"
-       id="path22246"
-       d="m -711.1845,-131.41541 c 1.91713,-11.87408 3.83359,-23.74794 5.75058,-35.62212 11.02403,-2.76688 22.04807,-5.53367 33.07198,-8.30043 2.76681,-11.02422 5.53361,-22.04801 8.30069,-33.07224 11.87399,-1.91667 23.74797,-3.83347 35.62183,-5.75045 l 26.4371,26.4368 -10.20046,72.54519 -72.545,10.20003 z"
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15.35965252;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       transform="matrix(0.19887839,0,0,0.19887839,-1507.3862,223.96803)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot22254"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
-         id="flowRegion22250"><rect
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff"
-           y="-1846.0518"
-           x="1982.8572"
-           height="254.28575"
-           width="1968.5715"
-           id="rect22248" /></flowRegion><flowPara
-         id="flowPara22252">#ElTangoNoSeClausura</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87969398px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.47199228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-1085.0486"
-       y="-144.94406"
-       id="text22264"><tspan
-         sodipodi:role="line"
-         id="tspan22262"
-         x="-1085.0486"
-         y="-144.94406"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.47199228px">NUESTRA CULTURA, NUESTRA IDENTIDAD</tspan></text>
     <g
        transform="matrix(0.11120984,0,0,0.11120984,-2021.7962,28.567661)"
        id="g22296">
