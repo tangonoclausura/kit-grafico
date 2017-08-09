@@ -40,17 +40,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="1107.5873"
-     inkscape:cy="431.80817"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="579.39189"
+     inkscape:cy="535.05613"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1216"
      showgrid="false"
      inkscape:snap-text-baseline="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="3200"
+     inkscape:window-height="1690"
+     inkscape:window-x="0"
+     inkscape:window-y="54"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -60,7 +60,7 @@
        id="guide1230"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="15.729539,288.58742"
+       position="-2.273763,281.42985"
        orientation="1,0"
        id="guide1232"
        inkscape:locked="false" />
@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,6 +92,17 @@
        x="13.851519"
        y="21.134851" />
     <rect
+       inkscape:export-filename="C:\Users\Negra de Alma\Downloads\00_ElTangoNoSeClausura\Kit gráfico\Volante_Convocatoria.png"
+       ry="0"
+       y="21.451159"
+       x="13.23102"
+       height="24.012632"
+       width="181.16707"
+       id="rect4658"
+       style="opacity:0.419;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.6118114;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
        inkscape:export-ydpi="100"
        inkscape:export-xdpi="100"
        style="opacity:0.419;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.6118114;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -106,7 +117,7 @@
        inkscape:export-ydpi="100"
        inkscape:export-xdpi="100"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.58215904px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13955398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.58215904px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.34;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        x="87.782639"
        y="113.14923"
        id="text22073"
@@ -115,7 +126,7 @@
          id="tspan22071"
          x="87.782639"
          y="113.14923"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;stroke-width:0.13955398px">EL TANGO VIVE EN LAS MILONGAS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff;stroke-width:1.34;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stroke-linejoin:round">EL TANGO VIVE EN LAS MILONGAS</tspan></text>
     <g
        id="g22081"
        transform="matrix(0.11780184,0,0,0.11780184,-78.823838,136.64856)">
@@ -155,7 +166,7 @@
        clip-path="url(#clipPath1218)"
        transform="matrix(0.29599381,0,0,0.29599381,128.88848,46.188133)">
       <g
-         transform="matrix(0.58970719,0,0,0.58970719,-352.56738,862.18731)"
+         transform="matrix(0.5772257,0,0,0.5772257,-332.68286,860.76889)"
          id="g13557"
          style="display:inline">
         <path
@@ -343,7 +354,7 @@
       </g>
       <g
          style="display:inline;fill:#4a4a4a;fill-opacity:1"
-         transform="matrix(0.55953089,0,0,0.55953089,831.25577,736.69411)"
+         transform="matrix(0.5476881,0,0,0.5476881,826.084,737.93182)"
          id="g14021">
         <path
            transform="matrix(0.52205776,0,0,0.52205776,-2059.2266,-90.523216)"
@@ -356,7 +367,7 @@
       </g>
       <g
          style="display:inline;fill:#4a4a4a;fill-opacity:1"
-         transform="matrix(1.1661524,0,0,1.1661524,-407.88479,1423.0465)"
+         transform="matrix(1.1414701,0,0,1.1414701,-386.82945,1409.7572)"
          id="g14087">
         <path
            transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)"
@@ -384,7 +395,7 @@
       <g
          style="display:inline;fill:#4a4a4a;fill-opacity:1"
          id="g18277"
-         transform="matrix(0.55953089,0,0,0.55953089,1003.4483,736.69411)">
+         transform="matrix(0.5476881,0,0,0.5476881,994.63197,737.93182)">
         <path
            style="display:inline;opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:11.15474415;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m -147.26664,-951.88084 126.685994,-91.46906 126.686026,95.56276 126.68604,-95.56276 c 42.22867,30.4898 84.45731,60.97944 126.68599,91.46906 v 161.90318 l -253.37203,190.90545 -253.37202,-190.90545 z"
@@ -396,7 +407,7 @@
       </g>
       <g
          id="g18421"
-         transform="matrix(1.1661524,0,0,1.1661524,54.1514,1192.1743)"
+         transform="matrix(1.1414701,0,0,1.1414701,65.427482,1183.7715)"
          style="display:inline">
         <path
            style="display:inline;opacity:1;fill:#b521ae;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -411,7 +422,7 @@
          xml:space="preserve"
          id="flowRoot18441"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.12796021px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="matrix(0.39652927,0,0,0.39652927,3058.5451,910.34752)"><flowRegion
+         transform="matrix(0.39652927,0,0,0.39652927,3071.0597,910.34752)"><flowRegion
            id="flowRegion18437"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.12796021px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff"><rect
              id="rect18435"
@@ -423,7 +434,7 @@
            id="flowPara18439">NUESTRA CULTURA,</flowPara><flowPara
            id="flowPara18467">NUESTRA IDENTIDAD</flowPara></flowRoot>      <g
          id="g18507"
-         transform="matrix(0.15056717,0,0,0.15056717,-59.52064,765.20917)"
+         transform="matrix(0.15056717,0,0,0.15056717,-52.369588,765.20917)"
          style="display:inline">
         <path
            transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)"
@@ -449,7 +460,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.15056717,0,0,0.15056717,33.351514,765.20917)"
+         transform="matrix(0.15056717,0,0,0.15056717,40.502566,765.20917)"
          id="g18515"
          style="display:inline">
         <path
@@ -477,7 +488,7 @@
       </g>
       <g
          id="g18523"
-         transform="matrix(0.15056717,0,0,0.15056717,126.22368,765.20917)"
+         transform="matrix(0.15056717,0,0,0.15056717,133.37472,765.20917)"
          style="display:inline">
         <path
            transform="matrix(4.2159663,0,0,4.2159663,-341.23141,-929.18158)"
@@ -516,7 +527,7 @@
              width="1000.0063"
              id="rect18525" /></flowRegion><flowPara
            id="flowPara18529">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>      <g
-         transform="matrix(0.55953089,0,0,0.55953089,1178.0744,736.69411)"
+         transform="matrix(0.5476881,0,0,0.5476881,1165.562,737.93182)"
          id="g1224"
          style="display:inline;fill:#4a4a4a;fill-opacity:1">
         <path
@@ -531,11 +542,24 @@
       <g
          style="display:inline;fill:#4a4a4a;fill-opacity:1"
          id="g1228"
-         transform="matrix(0.55953089,0,0,0.55953089,1347.4088,736.69411)">
+         transform="matrix(0.5476881,0,0,0.5476881,1331.3124,737.93182)">
         <path
            style="display:inline;opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:11.15474415;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m -147.26664,-951.88084 126.685994,-91.46906 126.686026,95.56276 126.68604,-95.56276 c 42.22867,30.4898 84.45731,60.97944 126.68599,91.46906 v 161.90318 l -253.37203,190.90545 -253.37202,-190.90545 z"
            id="path1226"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           clip-path="none"
+           transform="matrix(0.52205776,0,0,0.52205776,-2059.2266,-90.523216)" />
+      </g>
+      <g
+         id="g4699"
+         transform="matrix(0.5476881,0,0,0.5476881,659.76556,737.93182)"
+         style="display:inline;fill:#4a4a4a;fill-opacity:1">
+        <path
+           style="display:inline;opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:11.15474415;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -147.26664,-951.88084 126.685994,-91.46906 126.686026,95.56276 126.68604,-95.56276 c 42.22867,30.4898 84.45731,60.97944 126.68599,91.46906 v 161.90318 l -253.37203,190.90545 -253.37202,-190.90545 z"
+           id="path4697"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccc"
            clip-path="none"
@@ -555,19 +579,21 @@
          id="flowPara2429" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2435"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.07831503,0,0,0.07831503,130.88917,69.145417)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.48802471;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.07831503,0,0,0.07831503,130.88917,44.803747)"
        inkscape:export-filename="C:\Users\Negra de Alma\Downloads\00_ElTangoNoSeClausura\Kit gráfico\Volante_Convocatoria.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100"><flowRegion
-         id="flowRegion2437"><rect
+         id="flowRegion2437"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:12.48802471;stroke-miterlimit:4;stroke-dasharray:none"><rect
            id="rect2439"
            width="2108.5715"
            height="271.42856"
            x="-1380"
-           y="-288.90887" /></flowRegion><flowPara
+           y="-288.90887"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:12.48802471;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
          id="flowPara2441"
-         style="font-size:48px">En Buenos Aires, cuna del tango y a pesar de las leyes que lo protegen, las milongas nuevas se ven obligadas a funcionar bajo formatos clandestinos, las milongas en espacios públicos ven constantemente amenzada su continuidad y las milongas formales están asfixiadas por las presiones tarifarias en un contexto económico recesivo.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.95610428px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:12.48802471;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">En Buenos Aires, cuna del tango y a pesar de las leyes que lo protegen, las milongas nuevas se ven obligadas a funcionar bajo formatos clandestinos, las milongas en espacios públicos ven constantemente amenzada su continuidad y las milongas formales están asfixiadas por las presiones tarifarias en un contexto económico recesivo.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2451"
        style="fill:black;fill-opacity:1;stroke:none;font-family:Cabin;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Cabin;font-stretch:normal;font-variant:normal"><flowRegion
@@ -590,22 +616,23 @@
          id="flowPara2471" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot18531-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.06688401;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(0.12912397,0,0,0.12912397,1110.9943,224.62113)"
        inkscape:export-filename="C:\Users\Negra de Alma\Downloads\00_ElTangoNoSeClausura\Kit gráfico\Volante_Convocatoria.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100"><flowRegion
          id="flowRegion18527-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:11.06688401;stroke-miterlimit:4;stroke-dasharray:none"><rect
            id="rect18525-1"
            width="1000.0063"
            height="729.0672"
            x="-8091.5479"
            y="-842.34222"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara18529-3">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.35280228px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:11.06688401;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara18529-3"
+         style="stroke:#000000;stroke-opacity:1;stroke-width:11.06688401;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;paint-order:markers stroke fill">sumate en facebook.com/tangonoclausura</flowPara></flowRoot>    <g
        id="g25046"
-       transform="matrix(0.11821229,0,0,0.12150972,33.138245,144.09159)"
+       transform="matrix(0.13518616,0,0,0.13895706,37.22543,147.29299)"
        inkscape:export-filename="C:\Users\Negra de Alma\Downloads\00_ElTangoNoSeClausura\Kit gráfico\Volante_Convocatoria.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100">
@@ -746,22 +773,36 @@
        xml:space="preserve"
        id="flowRoot4680"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.07831503,0,0,0.07831503,130.73572,66.729173)"
+       transform="matrix(0.07831503,0,0,0.07831503,141.31906,66.729173)"
        inkscape:export-filename="C:\Users\Negra de Alma\Downloads\00_ElTangoNoSeClausura\Kit gráfico\Volante_Convocatoria.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100"><flowRegion
          id="flowRegion4682"><rect
            id="rect4684"
-           width="1453.7954"
-           height="504.99634"
+           width="1271.016"
+           height="518.85321"
            x="-660"
            y="-43.194599" /></flowRegion><flowPara
          id="flowPara4686"
-         style="font-size:48px">El viernes 18 de agosto, a las 19.00, realizamos una milonga y muestra pública en el Obelisco para pedir:</flowPara><flowPara
-         id="flowPara4692"
-         style="font-size:48px">- Que el Estado fomente, promueva y acompañe la difusión y práctica del tango en todas sus formas en todo el territorio de la ciudad, tal como está previsto en las leyes y pactos firmados.</flowPara><flowPara
+         style="font-size:48px" /><flowPara
+         style="font-size:48px"
+         id="flowPara4670">- Que el Estado <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:'Cabin Bold'"
+   id="flowSpan4664">fomente, promueva<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin"
+   id="flowSpan4666"> y</flowSpan> acompañe</flowSpan> la difusión y práctica del tango en todas sus formas en todo el territorio de la ciudad, <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:'Cabin Bold'"
+   id="flowSpan4672">tal como está previsto en las leyes y pactos firmados</flowSpan>.</flowPara><flowPara
          id="flowPara4702"
-         style="font-size:48px">- Que cesen las clausuras arbitrarias y se promueva y la facilite la adecuación de los espacios culturales sin suspensión de actividades (salvo situaciones de riesgo tal como dicta la ley).</flowPara><flowPara
+         style="font-size:48px">- Que<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:'Cabin Bold'"
+   id="flowSpan4681"> <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin"
+   id="flowSpan4691">cesen las</flowSpan> clausuras arbitrarias</flowSpan> y se <flowSpan
+   style="-inkscape-font-specification:'Cabin Bold';font-family:Cabin;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan4693">promueva y facilite</flowSpan> la adecuación de los espacios culturales <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:'Cabin Bold'"
+   id="flowSpan4683">sin suspensión de actividades</flowSpan> (salvo situaciones de riesgo tal como dicta la ley).</flowPara><flowPara
          style="font-size:42.66666794px"
          id="flowPara4706" /><flowPara
          style="font-size:42.66666794px"
@@ -782,19 +823,38 @@
          y="45.339012"
          style="stroke-width:0.26458332"
          id="tspan4698" /></text>
-    <text
-       inkscape:export-filename="C:\Users\Negra de Alma\Downloads\00_ElTangoNoSeClausura\Kit gráfico\Volante_Convocatoria.png"
-       id="text271"
-       y="37.323719"
-       x="22.851088"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.62409496px;line-height:125%;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#112b00;fill-opacity:1;stroke:none;stroke-width:0.21560238px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
+    <flowRoot
+       inkscape:export-ydpi="100"
        inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#112b00;stroke-width:0.21560238px"
-         y="37.323719"
-         x="22.851088"
-         id="tspan269"
-         sodipodi:role="line">NUESTRA CULTURA, NUESTRA IDENTIDAD</tspan></text>
-  </g>
+       inkscape:export-filename="C:\Users\Negra de Alma\Downloads\00_ElTangoNoSeClausura\Kit gráfico\Volante_Convocatoria.png"
+       transform="matrix(0.0912106,0,0,0.0912106,75.890143,53.702452)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4652"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4634"
+         style="text-align:center;text-anchor:middle"><rect
+           y="-36.596066"
+           x="-774.81445"
+           height="140.75732"
+           width="2194.1514"
+           id="rect4632"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara4640">El <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle"
+   id="flowSpan4660">viernes 18 de agosto, a las 19.00</flowSpan>, realizamos una <flowSpan
+   style="-inkscape-font-specification:'Cabin Bold';font-family:Cabin;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan4695">milonga</flowSpan> y muestra pública en el <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle"
+   id="flowSpan4662">Obelisco</flowSpan></flowPara><flowPara
+         id="flowPara4642"
+         style="font-size:48px;text-align:center;text-anchor:middle"> para pedir:                </flowPara><flowPara
+         id="flowPara4644"
+         style="font-size:42.66666794px;text-align:center;text-anchor:middle" /><flowPara
+         style="font-size:42.66666794px;text-align:center;text-anchor:middle"
+         id="flowPara4646" /><flowPara
+         style="font-size:42.66666794px;text-align:center;text-anchor:middle"
+         id="flowPara4648" /><flowPara
+         id="flowPara4650"
+         style="font-size:42.66666794px;text-align:center;text-anchor:middle" /></flowRoot>  </g>
 </svg>
