@@ -27,10 +27,10 @@
      inkscape:measure-end="0,0"
      inkscape:measure-start="0,0"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg10065"
      inkscape:document-units="mm"
-     inkscape:cy="388.72035"
-     inkscape:cx="712.74923"
+     inkscape:cy="445.28889"
+     inkscape:cx="373.33798"
      inkscape:zoom="0.70710678"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -90,7 +90,8 @@
        height="365.98621"
        width="550.4845"
        inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="/home/xaiki/flyer-milongpng.png" />
     <g
        id="g11144"
        transform="matrix(-0.11724671,0.14495353,-0.14495353,-0.11724671,259.38704,70.622938)">
@@ -1492,38 +1493,38 @@
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:42.15966034;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <text
-     transform="rotate(31.561722)"
+     transform="rotate(33.349544)"
      id="text21457"
-     y="-19.653885"
-     x="44.428688"
+     y="-25.841619"
+     x="43.417458"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.01603317px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.78100014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      xml:space="preserve"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.01603317px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#ffffff;stroke:#000000;stroke-width:4.78100014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       y="-19.653885"
-       x="44.428688"
+       y="-25.841619"
+       x="43.417458"
        id="tspan21455"
        sodipodi:role="line">VIERNES 18   <tspan
    id="tspan21459"
-   style="font-size:42.33333206px;stroke:#000000;stroke-width:4.78100014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">19H00</tspan></tspan></text>
+   style="font-size:42.33333206px;stroke:#000000;stroke-width:4.78100014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">19:00hs</tspan></tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.01603317px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.78100014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="198.18297"
-     y="36.241554"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.66880608px;line-height:180.69999218%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.36561394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="188.96268"
+     y="37.692646"
      id="text21473"
-     transform="rotate(31.561722)"><tspan
+     transform="matrix(0.84471701,0.54425631,-0.55752702,0.82461036,0,0)"><tspan
        sodipodi:role="line"
        id="tspan21471"
-       x="201.217"
-       y="36.241554"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.01603317px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:4.78100014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">GRAN MILONGA </tspan><tspan
+       x="191.73309"
+       y="37.692646"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.66880608px;line-height:180.69999218%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:4.36561394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">GRAN MILONGA </tspan><tspan
        id="tspan21475"
        sodipodi:role="line"
-       x="198.18297"
-       y="99.139137"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;line-height:153.60000134%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:4.78100014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">#ElTangoNoSeClausura</tspan></text>
+       x="188.96268"
+       y="108.28113"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.38635635px;line-height:180.69999218%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:4.36561394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">#ElTangoNoSeClausura</tspan></text>
   <g
-     transform="matrix(-0.14508248,0,0,-0.14508248,-607.35537,164.19554)"
+     transform="matrix(-0.14508248,0,0,-0.14508248,-606.8262,161.02052)"
      id="g22306">
     <path
        style="display:inline;opacity:1;fill:#ededed;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
